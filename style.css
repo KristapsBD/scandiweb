@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.text p {
+    text-align: center;
+    line-height: 10px;
+    font-weight: 500;
+    font-size: 18px;
+    white-space: nowrap;
+}
+
+.card-border {
+    border: black solid;
+    border-radius: 5px;
+    height: 200px;   
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
